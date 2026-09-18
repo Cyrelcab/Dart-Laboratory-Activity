@@ -1,6 +1,8 @@
 import 'dart:io';
 
 void main() {
+
+  //GROUP 4//
   double smallest;
   double largest;
 
@@ -61,4 +63,6 @@ void main() {
 
   print("\nSmallest number: $smallest");
   print("Largest number: $largest");
+
+  // Group 4 //
 }
